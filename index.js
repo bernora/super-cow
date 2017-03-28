@@ -10,4 +10,3 @@ function calculateSP(issue, i) {
 data.issues.forEach(calculateSP);
 
 console.log(totalSP);
-console.log("This is a change");
